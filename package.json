@@ -1,0 +1,11 @@
+{
+  "name": "zacII",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "consola": "^2.3.0",
+    "puppeteer": "^1.10.0",
+    "readline-sync": "^1.4.9"
+  }
+}
